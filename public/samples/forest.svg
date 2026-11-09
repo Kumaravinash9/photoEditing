@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="fog" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2c3530"/>
+      <stop offset="100%" stop-color="#10140f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#fog)"/>
+  <g fill="#0f1612">
+    <polygon points="120,760 220,280 320,760"/>
+    <polygon points="280,780 390,220 500,780"/>
+    <polygon points="470,800 590,180 710,800"/>
+    <polygon points="680,790 790,260 900,790"/>
+    <polygon points="860,810 980,300 1100,810"/>
+  </g>
+  <rect y="760" width="1200" height="140" fill="#1a2218"/>
+  <ellipse cx="600" cy="420" rx="420" ry="80" fill="#d8c8a0" opacity="0.08"/>
+</svg>

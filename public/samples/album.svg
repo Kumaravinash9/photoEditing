@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <radialGradient id="vinyl" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#d97706"/>
+      <stop offset="35%" stop-color="#1a1410"/>
+      <stop offset="100%" stop-color="#0c0a08"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="400" fill="#16120e"/>
+  <circle cx="200" cy="200" r="150" fill="url(#vinyl)"/>
+  <circle cx="200" cy="200" r="28" fill="#d97706"/>
+</svg>
